@@ -1,0 +1,25 @@
+# Node
+node_modules/
+dist/
+.env
+
+# Python
+venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+
+# Django
+db.sqlite3
+backend/media/
+backend/.env
+
+# macOS
+.DS_Store
+
+# Editor
+.vscode/
+.idea/
