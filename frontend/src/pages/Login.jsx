@@ -80,8 +80,10 @@ const Login = () => {
                                 </Form>
 
                                 <div className="text-center mt-4 pt-3 border-top">
-                                    <small className="text-muted">للتجربة، استخدم <span className="fw-bold text-dark">admin / admin123</span> (مدير عام)</small><br />
-                                    <small className="text-muted">أو <span className="fw-bold text-dark">emp1 / emp123</span> (موظف)</small>
+                                    <small className="text-muted">للتجربة، استخدم <span className="fw-bold text-dark">admin / AS123456qw@</span> (مدير عام)</small><br />
+                                    <small className="text-muted">أو <span className="fw-bold text-dark">emp1 / AS123456qw@</span> (موظف)</small>
+                                    <small className="text-muted">أو <span className="fw-bold text-dark">abo_bander / AS123456qw@</span> (امين صندوق)</small>
+                                    <small className="text-muted">أو <span className="fw-bold text-dark">manager1 / AS123456qw@</span> (امين صندوق)</small>
                                 </div>
                             </Card.Body>
                         </Card>
